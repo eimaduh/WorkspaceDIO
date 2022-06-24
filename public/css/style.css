@@ -4,7 +4,7 @@
 
 header {
     padding: 10px;
-    background-color: rgb(2, 2, 44);
+    background-color: #122A57;
     color: white;
 }
 
@@ -31,7 +31,7 @@ article {
 
 footer {
     padding: 20px;
-    background-color: rgb(2, 2, 44);
+    background-color: #122A57;
     color: white;
 }
 
